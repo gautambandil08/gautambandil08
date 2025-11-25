@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gautam 👋<br>I'm a Python developer passionate about building efficient, practical, and scalable applications. I enjoy working with APIs, automation, data processing, and backend development. I love solving real-world problems through clean code, modern tools, and continuous learning.<br>🚀 Always exploring new technologies and improving my craft.
+Hi, I'm Gautam 👋<br>I'm passionate about building efficient, practical, and scalable applications. I enjoy working with APIs, automation, data processing, and backend development. I love solving real-world problems through clean code, modern tools, and continuous learning.<br>🚀 Always exploring new technologies and improving my craft.
 
 
 ## 🌐 Socials:
